@@ -1,0 +1,86 @@
+image_path = 'images\Screenshot 2024-07-04 171101.png':
+
+text = pytesseract.image_to_string(roi, config='--psm 6 --oem 2')
+4/06) 18 124] 1:
+
+text = pytesseract.image_to_string(roi, config='--psm 6 --oem 1')
+4/06) 18 124] 1:
+
+text = pytesseract.image_to_string(roi, config='--psm 6 --oem 0')
+engine not available
+
+
+text = pytesseract.image_to_string(roi, config='--psm 0 --oem 1')
+error
+
+text = pytesseract.image_to_string(roi, config='--psm 1 --oem 1')
+empty output
+
+text = pytesseract.image_to_string(roi, config='--psm 2 --oem 1')
+error
+
+text = pytesseract.image_to_string(roi, config='--psm 3 --oem 1')
+empty output
+
+text = pytesseract.image_to_string(roi, config='--psm 4 --oem 1')
+empty output
+
+text = pytesseract.image_to_string(roi, config='--psm 5 --oem 1')
+stl
+�
+
+
+text = pytesseract.image_to_string(roi, config='--psm 6 --oem 1')
+4/06) 18 124] 1:
+
+text = pytesseract.image_to_string(roi, config='--psm 7 --oem 1')
+il patanizal
+
+
+text = pytesseract.image_to_string(roi, config='--psm 8 --oem 1')
+flnaiaeizaly:
+
+
+text = pytesseract.image_to_string(roi, config='--psm 9 --oem 1')
+06/18 524
+
+text = pytesseract.image_to_string(roi, config='--psm 10 --oem 1')
+il patanizal
+
+text = pytesseract.image_to_string(roi, config='--psm 11 --oem 1')
+ee a
+
+= oo
+
+EE
+
+06/18}24]1:
+
+
+text = pytesseract.image_to_string(roi, config='--psm 12 --oem 1')
+ee a
+
+= oo
+
+EE
+
+06/18}24]1:
+
+
+text = pytesseract.image_to_string(roi, config='--psm 13 --oem 1')
+flnaiaeizaly:
+
+
+text = pytesseract.image_to_string(roi, config='--psm 14 --oem 1')
+error 
+
+text = pytesseract.image_to_string(roi, config='--psm 15 --oem 1')
+error 
+
+text = pytesseract.image_to_string(roi, config='--psm 16 --oem 1')
+error
+
+
+
+Screenshot 2024-07-04 171111.png
+
